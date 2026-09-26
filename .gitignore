@@ -15,3 +15,9 @@ __pycache__/
 output*/
 work/
 build/
+work/lvs/
+work/cdl/
+work/cdltest/
+work/gds/
+work/xsch/
+work/drc/
