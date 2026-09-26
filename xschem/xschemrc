@@ -79,3 +79,4 @@ append XSCHEM_LIBRARY_PATH :../../cpdk/design
 
 #set lvs_netlist 1
 
+append XSCHEM_LIBRARY_PATH :[file dirname [file normalize [info script]]]
